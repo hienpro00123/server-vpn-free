@@ -1,0 +1,23 @@
+{
+  "ads": "true",
+  "cập nhật": [{
+    "phiên bản": "2.8.2000",
+    "title": "Bạn có thích ứng dụng VPN này không? Hãy kiểm tra mã nguồn!",
+    "description": "Ứng dụng có sẵn tại github.com/gayankuruppu/android-vpn-client-ics-openvpn và theo dõi nhà phát triển trên GitHub github.com/gayanvoice",
+    "kích thước": "https://git.io/JeY69"
+  }],
+  "bị chặn": [
+    {"id": 0, "app": "com.android.game"},
+    {"id": 1, "app": "com.utorrent.client"},
+    {"id": 2, "app": "com.torrent.client"},
+    {"id": 3, "app": "com.tor.client"},
+    {"id": 4, "app": "com.insta.client"},
+    {"id": 5, "app": "com.facebook.client"},
+    {"id": 6, "app": "com.get.client"}
+  ],
+  "miễn phí":[
+    {"id": 0, "file": 1, "city": "japan", "country": "japan", "image": "japan", "ip": "219.100.37.58", "active" : "true", "signal": "a"}
+    
+    
+  ]
+}
